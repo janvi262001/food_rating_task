@@ -32,7 +32,6 @@ const Poll = () => {
   }, [selectedDishes]);
 
   const handleSelection = (dish, rank, index) => {
-    console.log('rank: ', rank);
     if (rank === 0) {
       const updatedSelections = selections.filter(
         (selectedDish) => selectedDish.id !== dish.id
