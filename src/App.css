@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
+}
+.container {
+  padding: 1rem;
+  margin-top: 4rem;
+  background-color: rgb(209, 209, 209);
+  min-height: 90.5vh;
+}
+.btn-span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (max-width: 480px) {
+  .container {
+    min-height: 95vh;
+  }
+}
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;600;700&display=swap");

@@ -1,0 +1,162 @@
+[
+    {
+        "id":1,
+        "userName": "Janvi1",
+        "email": "admin@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": true
+    },
+    {
+        "id":2,
+        "userName": "Janvi2",
+        "email": "rohitjanvi2@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":3,
+        "userName": "Janvi Rohit",
+        "email": "rohitjanvi3@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": true
+    },
+    {
+        "id":4,
+        "userName": "Janvi4",
+        "email": "rohitjanvi4@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":5,
+        "userName": "Janvi5",
+        "email": "rohitjanvi5@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":6,
+        "userName": "Janvi6",
+        "email": "rohitjanvi6@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":7,
+        "userName": "Janvi7",
+        "email": "rohitjanvi7@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":8,
+        "userName": "Janvi8",
+        "email": "rohitjanvi8@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":9,
+        "userName": "Janvi9",
+        "email": "rohitjanvi9@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":10,
+        "userName": "Janvi10",
+        "email": "rohitjanvi10@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":11,
+        "userName": "Janvi11",
+        "email": "rohitjanvi11@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":12,
+        "userName": "Janvi12",
+        "email": "rohitjanvi12@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":13,
+        "userName": "Janvi13",
+        "email": "rohitjanvi13@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":14,
+        "userName": "Janvi14",
+        "email": "rohitjanvi14@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":15,
+        "userName": "Janvi15",
+        "email": "rohitjanvi15@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":16,
+        "userName": "Janvi16",
+        "email": "rohitjanvi16@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":17,
+        "userName": "Janvi17",
+        "email": "rohitjanvi17@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":18,
+        "userName": "Janvi18",
+        "email": "rohitjanvi18@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":19,
+        "userName": "Janvi19",
+        "email": "rohitjanvi19@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":20,
+        "userName": "Janvi20",
+        "email": "rohitjanvi20@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":21,
+        "userName": "Janvi21",
+        "email": "rohitjanvi21@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },
+    {
+        "id":22,
+        "userName": "Janvi22",
+        "email": "rohitjanvi22@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": false
+    },  {
+        "id":23,
+        "userName": "Janvi23",
+        "email": "rohitjanvi23@gmail.com",
+        "password": "Tech@123",
+        "isAdmin": true
+    }
+]
